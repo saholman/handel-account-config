@@ -1,0 +1,16 @@
+account_id: 632328740521
+region: us-west-2
+vpc: vpc-a28e2ac5
+public_subnets:
+- subnet-d4e3338f
+- subnet-e7f5b8ae
+- subnet-9eddebf9
+private_subnets:
+- 
+data_subnets: 
+- 
+ecs_ami: 
+ssh_bastion_sg: 
+on_prem_cidr: 
+elasticache_subnet_group: 
+rds_subnet_group: 
